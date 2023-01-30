@@ -1,5 +1,6 @@
 package Level1;
 
+// 2016년
 public class Ex1 {
     public String solution(int a, int b) {
         String[] week = new String[]{"FRI", "SAT", "SUN", "MON", "TUE", "WED", "THU"};

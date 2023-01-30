@@ -3,6 +3,7 @@ package Level1;
 import java.util.ArrayList;
 import java.util.Arrays;
 
+// 같은 숫자는 싫어
 public class Ex3 {
     public int[] solution(int []arr) {
         ArrayList<Integer> integerArrayList = new ArrayList<>(arr.length);
